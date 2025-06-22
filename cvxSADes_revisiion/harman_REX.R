@@ -68,3 +68,5 @@ FIM_mine <- calc_info_matrix(design_mine)
 det(solve(FIM_REX))^(1/8)
 det(solve(FIM_mine))^(1/8)
 
+
+
